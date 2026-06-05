@@ -1,6 +1,7 @@
 # ⚡ Scalp Command Center
 
 > Personal crypto scalping dashboard for **Bybit Perpetual** — built for high-probability intraday trading with AI-powered analysis.
+> 
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)](https://vitejs.dev)
 [![Claude AI](https://img.shields.io/badge/Claude-Sonnet_4-CC785C?logo=anthropic&logoColor=white)](https://anthropic.com)
